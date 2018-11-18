@@ -61,7 +61,6 @@ class Program
         }
         AllDone = true;
         barberPillow.Release();
-        // Wait for the Barber's thread to finish before exiting.
         BarberThread.Join();        
     }
 }
