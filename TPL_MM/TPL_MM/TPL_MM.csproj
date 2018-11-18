@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9D3D38D0-EC88-4146-AC36-4E6BCD6AE4FB}</ProjectGuid>
+    <ProjectGuid>{D462A2E3-DB95-44D0-8A00-F4D94B2E75CE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TPL_MatrixMaltipl</RootNamespace>
-    <AssemblyName>TPL_MatrixMaltipl</AssemblyName>
+    <RootNamespace>TPL_MM</RootNamespace>
+    <AssemblyName>TPL_MM</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

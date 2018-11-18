@@ -2,7 +2,7 @@
 using System.Diagnostics;
 using System.Threading.Tasks;
 
-class MultiplyMatrices
+class TPL_MatrixMultip
 {
     #region Sequential_Loop
     static void MultiplyMatricesSequential(double[,] matA, double[,] matB,

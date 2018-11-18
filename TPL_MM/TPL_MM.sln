@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPL_MatrixMaltipl", "TPL_MatrixMaltipl\TPL_MatrixMaltipl.csproj", "{9D3D38D0-EC88-4146-AC36-4E6BCD6AE4FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPL_MM", "TPL_MM\TPL_MM.csproj", "{D462A2E3-DB95-44D0-8A00-F4D94B2E75CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{9D3D38D0-EC88-4146-AC36-4E6BCD6AE4FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9D3D38D0-EC88-4146-AC36-4E6BCD6AE4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9D3D38D0-EC88-4146-AC36-4E6BCD6AE4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9D3D38D0-EC88-4146-AC36-4E6BCD6AE4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D462A2E3-DB95-44D0-8A00-F4D94B2E75CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D462A2E3-DB95-44D0-8A00-F4D94B2E75CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D462A2E3-DB95-44D0-8A00-F4D94B2E75CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D462A2E3-DB95-44D0-8A00-F4D94B2E75CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C518D13D-F79A-4EBF-B7E0-D49E86A16B48}
+		SolutionGuid = {24F08A96-7A06-4669-ADBA-5636540BC93F}
 	EndGlobalSection
 EndGlobal

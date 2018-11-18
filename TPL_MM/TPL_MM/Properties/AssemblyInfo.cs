@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Общие сведения об этой сборке предоставляются следующим набором
 // набора атрибутов. Измените значения этих атрибутов, чтобы изменить сведения,
 // связанные со сборкой.
-[assembly: AssemblyTitle("TPL_MatrixMaltipl")]
+[assembly: AssemblyTitle("TPL_MM")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TPL_MatrixMaltipl")]
+[assembly: AssemblyProduct("TPL_MM")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для идентификации библиотеки типов, если этот проект будет видимым для COM
-[assembly: Guid("9d3d38d0-ec88-4146-ac36-4e6bcd6ae4fb")]
+[assembly: Guid("d462a2e3-db95-44d0-8a00-f4d94b2e75ce")]
 
 // Сведения о версии сборки состоят из следующих четырех значений:
 //
